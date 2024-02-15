@@ -1,0 +1,48 @@
+---
+product-family:
+  title: Documentación de StorageGRID
+  lead: StorageGRID de NetApp es una suite de almacenamiento de objetos definido por
+    software que admite diferentes casos de uso en entornos de multinube pública,
+    privada e híbrida. StorageGRID ofrece compatibilidad nativa con la API de Amazon
+    S3 y proporciona innovaciones líderes en el sector, como la gestión automatizada
+    del ciclo de vida, para almacenar, proteger y conservar datos no estructurados
+    de forma rentable durante largos periodos.
+  summary: StorageGRID de NetApp es una suite de almacenamiento de objetos definido
+    por software que admite diferentes casos de uso en entornos de multinube pública,
+    privada e híbrida. StorageGRID ofrece compatibilidad nativa con la API de Amazon
+    S3 y proporciona innovaciones líderes en el sector, como la gestión automatizada
+    del ciclo de vida, para almacenar, proteger y conservar datos no estructurados
+    de forma rentable durante largos periodos.
+  sidebarlinks:
+  - title: Todo
+    tags: all
+    class: active
+  - title: Manos a la obra
+    tags: get_started
+  - title: Configure y utilice el software
+    tags: storagegrid
+  - title: Instalar y mantener dispositivos
+    tags: appliances
+  - title: Integrar y habilitar
+    tags: enable
+  tiles:
+  - title: Más información sobre StorageGRID
+    icon: "./media/groups_line.png"
+    url: intro-family.html
+    summary: Obtenga más información sobre StorageGRID.
+    tags: all, get_started, storagegrid, appliances, enable
+  - title: Documentación de StorageGRID 11,8
+    icon: "./media/config_line.png"
+    url: "../storagegrid-118/index.html"
+    summary: Configure y use el software StorageGRID 11,8.
+    tags: all, storagegrid
+  - title: Dispositivos StorageGRID
+    icon: "./media/icon-onprem.png"
+    url: "../storagegrid-appliances/index.html"
+    summary: Instalar y mantener dispositivos StorageGRID.
+    tags: all, appliances
+  - title: Habilite StorageGRID
+    icon: "./media/synergy.png"
+    url: "../storagegrid-enable/index.html"
+    summary: Pruebe, integre y habilite StorageGRID.
+    tags: all, enable
