@@ -56,25 +56,6 @@ Entre las ventajas del sistema StorageGRID se incluyen las siguientes:
 
 
 
-== Documentación de StorageGRID
-
-* https://docs.netapp.com/us-en/storagegrid/["Sitio de documentación del software StorageGRID"^]
-* https://docs.netapp.com/us-en/storagegrid-appliances/["Sitio de documentación de dispositivos StorageGRID"^]
-
-
-Aquí encontrará documentación para versiones anteriores del software StorageGRID:
-
-* https://docs.netapp.com/us-en/storagegrid-118/index.html["Documentación de StorageGRID 11,8"^]
-* https://docs.netapp.com/us-en/storagegrid-117/index.html["Documentación de StorageGRID 11,7"^]
-* https://docs.netapp.com/us-en/storagegrid-116/index.html["Documentación de StorageGRID 11,6"^]
-* https://docs.netapp.com/us-en/storagegrid-115/index.html["Documentación de StorageGRID 11,5"^]
-* https://docs.netapp.com/sgws-114/index.jsp["Centro de documentación de StorageGRID 11,4"^]
-* https://docs.netapp.com/sgws-113/index.jsp["Centro de documentación de StorageGRID 11,3"^]
-* https://docs.netapp.com/sgws-112/index.jsp["Centro de documentación de StorageGRID 11,2"^]
-
-
-
-
 == Cómo habilitar StorageGRID en su entorno
 
 Vaya a. https://docs.netapp.com/us-en/storagegrid-enable/index.html["Cómo habilitar StorageGRID en su entorno"^] Para obtener más información sobre cómo probar y habilitar las aplicaciones en su entorno StorageGRID.
