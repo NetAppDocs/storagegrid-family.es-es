@@ -42,7 +42,7 @@ product-family:
     url: "../storagegrid-appliances/index.html"
     summary: Instalar y mantener dispositivos StorageGRID.
     tags: all, appliances
-  - title: Habilite StorageGRID
+  - title: Soluciones y recursos de StorageGRID
     icon: "./media/synergy.png"
     url: "../storagegrid-enable/index.html"
     summary: Pruebe, integre y habilite StorageGRID.
